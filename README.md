@@ -1,1 +1,3 @@
-Starter kit for web development design.
+Starter kit for front-end web development.
+
+Mobile first, responsive template.
